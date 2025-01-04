@@ -122,10 +122,6 @@
     <img src="../images/docs/bypass/bypass-url-holder-test-code.png" width="50%" height="50%">
 </p>
 
-| [`BypassUrlHolderTest` source code](../../src/test/java/com/palettee/global/security/jwt/utils/BypassUrlHolderTest.java) |
-|--------------------------------------------------------------------------------------------------------------------------|
-| ![BypassUrlHolderTest](../images/docs/bypass/bypass-url-holder-test-code.png)                                            |
-
 이를 통해 직접 구현한 `BypassUrlHolder` 가 정상 작동함을 신뢰할 수 있었습니다.
 
 ---
